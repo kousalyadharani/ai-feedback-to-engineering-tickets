@@ -1,0 +1,5 @@
+[
+  {"id":"F-101","text":"Signing in is slow after the session expires."},
+  {"id":"F-102","text":"I cannot tell whether the invoice charge was applied."},
+  {"id":"F-103","text":"The save button is confusing."}
+]
